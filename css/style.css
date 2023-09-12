@@ -1,0 +1,25 @@
+body, header, main, footer {
+    border: 1px brown solid;
+    margin: 0,5rem;
+    padding: 0%;
+}
+
+        .cafes-container {
+            display: flex;
+            flex-flow: row wrap;
+            gap: 10px;
+            background-color: darkkhaki;
+            justify-content: flex-start;
+        }
+        .cafes-container > div {
+            width: 110px;
+            text-align: right;
+            line-height: normal;
+            font-size: medium;
+        }
+        .cafes-varios {
+            font-style: italic;
+            color: black;
+    
+        }
+    
