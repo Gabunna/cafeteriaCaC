@@ -18,8 +18,23 @@ body, header, main, footer {
             font-size: medium;
         }
         .cafes-varios {
-            font-style: italic;
+            
+            font-family: 'Times New Roman', Times, serif;
             color: black;
-    
+            }
+        .grid-container {
+            display: grid;
+            width: 200px;
         }
+        .grid-item {
+            width: 100px;
+        }
+    
+            
+            
+        
+
+        
+        
+        
     
