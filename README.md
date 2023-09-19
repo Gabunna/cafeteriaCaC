@@ -1,2 +1,0 @@
-# cafeteriaCaC
-Proyecto cafeteria 
