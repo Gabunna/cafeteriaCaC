@@ -22,13 +22,15 @@ body, header, main, footer {
             font-family: 'Times New Roman', Times, serif;
             color: black;
             }
-        .grid-container {
-            display: grid;
-            width: 200px;
-        }
-        .grid-item {
-            width: 100px;
-        }
+            .container-fluid {
+                display: grid;
+                width: 300px;
+            }
+            .row {
+                width: 200px;
+                background-color: rgba(175, 144, 177, 0.807);
+            }
+        
     
             
             
